@@ -7,7 +7,7 @@
 <hr>
 
 <div align="center">
-<h2> Click me</h2>
+<h2> Contact me</h2>
   <a href="https://stackoverflow.com/users/17931007/srinidhi-s"><img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  /></a>
   <a href="https://www.linkedin.com/in/srinidhi-s-740b71229/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
   <a href="https://dev.to/srinidhi33/"><img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  /></a>
@@ -73,7 +73,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 <hr>
-###
 
 <h3 align="left">🔥   My Stats :</h3>
 
