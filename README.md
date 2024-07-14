@@ -12,17 +12,15 @@
   <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
   <a href="https://x.com/srinidhiin33"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
 </div>
-
+<hr>
 ###
 
-<div align="center">
 <h5>Fun Fact:</h5>
+<div align="center">
   <h3>"Hello World!" was not my first code :)</h3>
 </div>
-
+<hr>
 ###
-
-<h1 align="center">hey there 👋</h1>
 
 ###
 
