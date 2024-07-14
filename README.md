@@ -16,7 +16,7 @@
 </div>
 <hr>
 
-<h5>Fun Fact:</h5>
+<h4>Fun Fact:</h4>
 <div align="center">
   <h3>"Hello World!" was not my first code :)</h3>
 </div>
