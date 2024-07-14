@@ -4,7 +4,7 @@
 
 ###
 
-<p> Click me!</p>
+<h2> Click me!</h2>
 <div align="center">
   <a href="https://stackoverflow.com/users/17931007/srinidhi-s"><img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  /></a>
   <a href="https://www.linkedin.com/in/srinidhi-s-740b71229/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
@@ -16,7 +16,8 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Srinidhi33.Srinidhi33&"  />
+<h5>Fun Fact:</h5>
+  <h3>"Hello World!" was not my first code :)</h3>
 </div>
 
 ###
