@@ -4,8 +4,10 @@
 
 ###
 
-<h2> Click me!</h2>
+<hr>
+
 <div align="center">
+<h2> Click me</h2>
   <a href="https://stackoverflow.com/users/17931007/srinidhi-s"><img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  /></a>
   <a href="https://www.linkedin.com/in/srinidhi-s-740b71229/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
   <a href="https://dev.to/srinidhi33/"><img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  /></a>
@@ -13,24 +15,19 @@
   <a href="https://x.com/srinidhiin33"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
 </div>
 <hr>
-###
 
 <h5>Fun Fact:</h5>
 <div align="center">
   <h3>"Hello World!" was not my first code :)</h3>
 </div>
 <hr>
-###
-
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
 <p align="left">I'm  SRINIDHI from Bengaluru<br><br>- 🔭 I’m a student @ Presidency University<br>- 📚 I'm currently learning Fast-API<br>- ⚡Java was my first Language :)</p>
-
-###
+<hr>
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -75,7 +72,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
-
+<hr>
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
