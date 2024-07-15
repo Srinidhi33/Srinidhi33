@@ -16,11 +16,7 @@
 </div>
 <hr>
 
-<h4>Fun Fact:</h4>
-<div align="center">
-  <h3>"Hello World!" was not my first code :)</h3>
-</div>
-<hr>
+
 
 <h3 align="left">👩‍💻  About Me</h3>
 
@@ -29,6 +25,12 @@
 <p align="left">I'm  SRINIDHI from Bengaluru<br><br>- 🔭 I’m a student @ Presidency University<br>- 📚 I'm currently learning Fast-API<br>- ⚡Java was my first Language :)</p>
 <hr>
 
+<h4>Fun Fact:</h4>
+<div align="center">
+  <h3>"Hello World!" was not my first code :)</h3>
+<!--   <h3>Coders may appear unassuming, but their digital wizardry is captivating. And just so you know, someone like that might have their eyes on you!</h3> -->
+</div>
+<hr>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
