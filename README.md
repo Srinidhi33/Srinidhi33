@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm  SRINIDHI from Bengaluru<br><br>- 🔭 I’m a student @ Presidency University<br>- 📚 I'm currently learning Fast-API<br>- ⚡Java was my first Language :)</p>
+<p align="left">I'm  SRINIDHI from Bengaluru<br><br>- 🔭 I’m a student @ Presidency University<br>- 📚 I'm currently learning SPRING-BOOT<br>- ⚡Java was my first Language :)</p>
 <hr>
 
 <h3 align="left">🛠 Language and tools</h3>
