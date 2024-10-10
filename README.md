@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://media.licdn.com/dms/image/C5616AQFvBbmWXqXQYQ/profile-displaybackgroundimage-shrink_350_1400/0/1642754203596?e=1726704000&v=beta&t=xWuBbZQNObVFctVUQss1GMmNnUOKvqKP3jHpa8E0PP8"  />
-</div>
+
 
 ###
 
