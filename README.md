@@ -2,7 +2,6 @@
 
 ###
 
-<hr>
 
 <div align="center">
 <h2> Contact me</h2>
@@ -20,7 +19,7 @@
 
 ###
 
-<p align="left">I'm  SRINIDHI from Bengaluru<br><br>- 🔭 I’m a student @ Presidency University<br>- 📚 I'm currently learning SPRING-BOOT<br>- ⚡Java was my first Language :)</p>
+<p align="left">I'm  SRINIDHI from Bengaluru<br><br>- 🔭 Student @ Presidency University<br>- 📚 I'm currently learning AGENTIC AI<br>- ⚡Java was my first Language :)</p>
 <hr>
 
 <h4>Fun Fact:</h4>
@@ -74,12 +73,5 @@
 </div>
 <hr>
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Srinidhi33&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
