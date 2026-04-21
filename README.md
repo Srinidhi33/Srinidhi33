@@ -6,10 +6,3 @@
 
 ###
 
-<h2 align="left">Techiiiiieeeess!</h2>
-
-###
-
-
-
-###
